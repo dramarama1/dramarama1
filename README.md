@@ -1,0 +1,5 @@
+- Hi, I’m @dramarama1
+- I’m interested in data science, data mining and machine learning.
+- I’m currently learning Python(pandas, numpy, io, os, bs4), SQL, Oracle.
+- I’m looking to collaborate in automating the processes associated with tabular forms, extracting and discovering patterns in large data sets, keep tracking of multiple projects.
+- My email: dramarama56@gmail.com
